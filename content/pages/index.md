@@ -37,11 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Image alt text
-      caption: Image caption
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
