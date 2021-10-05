@@ -37,6 +37,12 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
