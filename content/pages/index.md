@@ -69,32 +69,6 @@ sections:
     contentAlignHoriz: center
     testimonials:
       - quote: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        name: lorem-ipsum
-        title: lorem-ipsum
-        image:
-          elementId: ''
-          altText: lorem-ipsum
-          caption: lorem-ipsum
-          opacity: 100
-          type: ImageBlock
-        logo:
-          elementId: ''
-          altText: lorem-ipsum
-          caption: lorem-ipsum
-          opacity: 100
-          type: ImageBlock
-        elementId: lorem-ipsum
-      - quote: >-
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
         name: Isabelle Parks
