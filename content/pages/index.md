@@ -28,6 +28,15 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+      - elementId: ''
+        label: lorem-ipsum
+        altText: lorem-ipsum
+        url: '#'
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        type: Button
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
