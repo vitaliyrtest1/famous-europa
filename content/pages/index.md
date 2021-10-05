@@ -37,13 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-    feature:
-      elementId: ''
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      opacity: 100
-      type: ImageBlock
-      url: /images/contact.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
