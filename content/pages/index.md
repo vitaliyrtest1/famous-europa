@@ -45,6 +45,7 @@ sections:
       muted: false
       controls: false
       type: VideoBlock
+      posterUrl: /images/contact.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
