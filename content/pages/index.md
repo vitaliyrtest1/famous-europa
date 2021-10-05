@@ -39,7 +39,8 @@ sections:
         type: Button
     feature:
       elementId: ''
-      videoUrl: lorem-ipsum
+      videoUrl: >-
+        https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
       autoplay: false
       loop: false
       muted: false
