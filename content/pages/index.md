@@ -37,15 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-    feature:
-      elementId: ''
-      videoUrl: lorem-ipsum
-      autoplay: false
-      loop: false
-      muted: false
-      controls: false
-      type: VideoBlock
-      posterUrl: /images/hero.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
