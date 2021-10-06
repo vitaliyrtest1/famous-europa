@@ -37,16 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-    feature:
-      elementId: ''
-      videoUrl: >-
-        https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
-      autoplay: false
-      loop: false
-      muted: false
-      controls: false
-      type: VideoBlock
-      posterUrl: /images/contact.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
