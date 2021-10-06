@@ -23,6 +23,11 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
       - elementId: ''
         label: lorem-ipsum
         altText: lorem-ipsum
@@ -32,11 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - elementId: ''
         label: '2'
         altText: lorem-ipsum
