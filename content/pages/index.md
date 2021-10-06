@@ -29,7 +29,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - elementId: ''
-        label: lorem-ipsum
+        label: '2'
         altText: lorem-ipsum
         url: '#'
         showIcon: false
