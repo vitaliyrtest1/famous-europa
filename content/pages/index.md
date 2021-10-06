@@ -57,7 +57,6 @@ sections:
     textAlign: center
     posts:
       - content/pages/blog/post-two.md
-      - content/pages/postlayout-a8nr7r3pc.md
       - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
