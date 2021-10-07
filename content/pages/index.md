@@ -59,6 +59,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/postlayout-9tuqu5zzb.md
       - content/pages/blog/post-two.md
   - elementId: ''
     colors: colors-a
