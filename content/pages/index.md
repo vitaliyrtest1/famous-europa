@@ -61,6 +61,7 @@ sections:
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
       - content/pages/postlayout-guhjdp9m6.md
+      - content/pages/postlayout-jea9i837e.md
   - elementId: ''
     colors: colors-a
     width: wide
