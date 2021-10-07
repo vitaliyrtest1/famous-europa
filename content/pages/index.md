@@ -60,7 +60,6 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
-      - content/pages/postlayout-4xs6bnxu8.md
   - elementId: ''
     colors: colors-a
     width: wide
