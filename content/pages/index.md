@@ -60,7 +60,6 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
-      - content/pages/postlayout-zn9300pkz.md
   - elementId: ''
     colors: colors-a
     width: wide
