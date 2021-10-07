@@ -29,6 +29,15 @@ sections:
         style: primary
         elementId: hero-main-button
       - elementId: ''
+        label: lorem-ipsum
+        altText: lorem-ipsum
+        url: '#'
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        type: Button
+      - elementId: ''
         label: '2'
         altText: lorem-ipsum
         url: '#'
