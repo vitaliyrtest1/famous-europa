@@ -77,7 +77,8 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
-    posts: []
+    posts:
+      - content/pages/blog/post-two.md
     type: FeaturedPostsSection
   - type: TestimonialsSection
     variant: variant-b
