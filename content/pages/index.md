@@ -60,6 +60,25 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-a
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    posts: []
+    type: FeaturedPostsSection
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-h
