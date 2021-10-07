@@ -56,8 +56,8 @@ sections:
     title: Blog Posts
     textAlign: center
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
       - content/pages/postlayout-1kew1tyv1.md
