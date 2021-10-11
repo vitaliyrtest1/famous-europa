@@ -22,3 +22,5 @@ contentModels:
     newFilePath: 'blog/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
+
+# hello
