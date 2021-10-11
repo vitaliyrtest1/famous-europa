@@ -37,6 +37,7 @@ models:
         styles:
           self:
             width: '*'
+            height: '*'
           title:
             width: '*'
       - type: enum
