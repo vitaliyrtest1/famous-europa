@@ -34,6 +34,7 @@
         "FeaturedPeopleSection": "@stackbit/components/components/FeaturedPeopleSection",
         "FeaturedPostsSection": "@stackbit/components/components/FeaturedPostsSection",
         "FormBlock": "@stackbit/components/components/FormBlock",
+        // "HeroSection": "@stackbit/components/components/HeroSection",
         "HeroSection": "@stackbit/components/components/HeroSection",
         "ImageBlock": "@stackbit/components/components/ImageBlock",
         "QuoteSection": "@stackbit/components/components/QuoteSection",
