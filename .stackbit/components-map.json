@@ -35,7 +35,7 @@
         "FeaturedPostsSection": "@stackbit/components/components/FeaturedPostsSection",
         "FormBlock": "@stackbit/components/components/FormBlock",
         // "HeroSection": "@stackbit/components/components/HeroSection",
-        "HeroSection": "@stackbit/components/components/HeroSection",
+        "HeroSection": "../src/components/HeroSection.js",
         "ImageBlock": "@stackbit/components/components/ImageBlock",
         "QuoteSection": "@stackbit/components/components/QuoteSection",
         "SelectFormControl": "@stackbit/components/components/SelectFormControl",
