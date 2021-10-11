@@ -14,7 +14,7 @@ fields:
         width: '*'
   - type: enum
     name: variant
-    label: Arrangement
+    label: Arrangements
     controlType: thumbnails
     options:
       - label: Hero with feature on the right
