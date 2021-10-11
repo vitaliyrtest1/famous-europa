@@ -41,6 +41,7 @@ models:
             textAlign: '*'
           title:
             width: '*'
+            textAlign: '*'
       - type: enum
         name: variant
         label: Arrangements
