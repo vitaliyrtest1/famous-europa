@@ -38,6 +38,7 @@ models:
           self:
             width: '*'
             height: '*'
+            textAlign: '*'
           title:
             width: '*'
       - type: enum
