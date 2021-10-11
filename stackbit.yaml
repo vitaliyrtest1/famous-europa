@@ -37,6 +37,8 @@ models:
         styles:
           self:
             width: '*'
+          title:
+            width: '*'
       - type: enum
         name: variant
         label: Arrangements
