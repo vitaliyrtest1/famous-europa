@@ -3,7 +3,7 @@ import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 import { getDynamicComponent } from '@stackbit/components/components-registry';
 import Badge from '@stackbit/components/components/Badge';
-import Action from '../Action';
+import Action from '@stackbit/components/components/Action';
 import InlineMarkdown from '../InlineMarkdown';
 
 export default function HeroSection(props) {
