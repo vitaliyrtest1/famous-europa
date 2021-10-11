@@ -43,6 +43,9 @@ sections:
       caption: lorem-ipsum
       opacity: 100
       type: ImageBlock
+    styles:
+      self:
+        width: wide
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
