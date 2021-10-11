@@ -20,7 +20,7 @@ export default function HeroSection(props) {
         <div
             id={props.elementId}
             className={classNames(
-                'component please',
+                'component pleases',
                 'component-section',
                 'component-hero-section',
                 width === 'full' ? colors : '',
