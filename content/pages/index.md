@@ -2,8 +2,47 @@
 title: Home
 layout: PageLayout
 sections:
-  - self:
-      width: auto
+  - type: HeroSection
+    elementId: homepage-hero-1
+    variant: variant-a
+    colors: colors-f
+    width: wide
+    height: tall
+    bottomGap: none
+    topGap: none
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    textAlign: left
+    badge:
+      label: New Website
+    title: This Is A Big Hero Headline!
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
+      - elementId: ''
+        label: '2'
+        altText: lorem-ipsum
+        url: '#'
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        type: Button
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
