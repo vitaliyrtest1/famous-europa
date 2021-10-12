@@ -130,7 +130,6 @@ fields:
       - center
       - right
     default: left
-
   HeroSection:
     type: object
     label: Hero section
