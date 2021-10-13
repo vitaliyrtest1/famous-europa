@@ -45,7 +45,6 @@ sections:
       type: ImageBlock
     styles:
       self:
-        width: wide
         height: full
   - type: FeaturedPostsSection
     variant: variant-b
