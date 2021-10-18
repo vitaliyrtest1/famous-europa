@@ -47,7 +47,7 @@ sections:
       self:
         height: full
         width: narrow
-        objectFit: fill
+        objectFit: scale-down
         objectPosition: left
   - type: FeaturedPostsSection
     variant: variant-b
