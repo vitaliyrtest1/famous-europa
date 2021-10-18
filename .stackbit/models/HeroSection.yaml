@@ -29,6 +29,7 @@ fields:
             value: font-first
           - label: Second Font
             value: font-second
+        fontSize: '*'
       title:
         width: '*'
         textAlign: '*'
