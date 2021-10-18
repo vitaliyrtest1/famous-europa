@@ -8,7 +8,34 @@ thumbImage:
   caption: lorem-ipsum
   opacity: 100
   type: ImageBlock
-topSections: []
+topSections:
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: TextSection
 bottomSections: []
 layout: PostLayout
 ---
