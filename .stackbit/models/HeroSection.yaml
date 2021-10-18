@@ -19,7 +19,9 @@ fields:
         objectFit: '*'
         objectPosition: '*'
         flexDirection: '*'
-        flexDirections: '*'
+        justifyItems: '*'
+        justifySelf: '*'
+        justifySelf: '*'
       title:
         width: '*'
         textAlign: '*'
