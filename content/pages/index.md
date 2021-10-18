@@ -45,8 +45,8 @@ sections:
       type: ImageBlock
     styles:
       self:
-        height: auto
-        width: wide
+        height: screen
+        width: auto
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
