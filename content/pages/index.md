@@ -49,7 +49,7 @@ sections:
         alignSelf: baseline
         flexDirection: col-reverse
         justifyContent: space-around
-        fontFamily: font-second
+        fontFamily: font-first
     feature:
       elementId: ''
       altText: lorem-ipsum
