@@ -46,7 +46,7 @@ sections:
     styles:
       self:
         height: full
-        width: narrow
+        width: wide
         objectPosition: right-top
         objectFit: scale-down
   - type: FeaturedPostsSection
