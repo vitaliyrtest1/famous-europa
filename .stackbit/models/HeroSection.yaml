@@ -21,7 +21,8 @@ fields:
         flexDirection: '*'
         justifyItems: '*'
         justifySelf: '*'
-        justifySelf: '*'
+        alignItems: '*'
+        alignSelf: '*'
       title:
         width: '*'
         textAlign: '*'
