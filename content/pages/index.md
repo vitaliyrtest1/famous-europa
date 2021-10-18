@@ -47,7 +47,7 @@ sections:
       self:
         height: full
         width: narrow
-        objectFit: none
+        objectFit: fill
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
