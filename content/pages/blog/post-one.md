@@ -2,27 +2,14 @@
 title: Post Title One
 layout: PostLayout
 date: '2021-06-28'
-excerpt: |-
-  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+excerpt: >-
+  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
+  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 thumbImage:
   type: ImageBlock
-  url: "/images/post-1.jpeg"
-  altText: "Post Image"
-bottomSections:
-  - type: CtaSection
-    variant: variant-b
-    colors: colors-e
-    width: wide
-    height: short
-    textAlign: left
-    title: Let's do this
-    text: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
-    actions:
-      - type: Button
-        label: Get Started
-        url: "https://www.stackbit.com/"
-        style: primary
+  url: /images/post-1.jpeg
+  altText: Post Image
+bottomSections: []
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
