@@ -19,6 +19,7 @@ fields:
         objectFit: '*'
         objectPosition: '*'
         flexDirection: '*'
+        justifyContent: '*'
         justifyItems: '*'
         justifySelf: '*'
         alignItems: '*'
