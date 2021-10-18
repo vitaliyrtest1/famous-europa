@@ -48,6 +48,7 @@ sections:
         alignItems: baseline
         alignSelf: baseline
         flexDirection: col-reverse
+        justifyContent: space-around
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
