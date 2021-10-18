@@ -47,7 +47,7 @@ sections:
       self:
         height: full
         width: narrow
-        objectPosition: right-bottom
+        objectPosition: right-top
         objectFit: none
         justifyItems: stretch
         justifySelf: stretch
