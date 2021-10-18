@@ -50,6 +50,9 @@ sections:
         objectPosition: right-bottom
         objectFit: none
         justifyItems: stretch
+        justifySelf: stretch
+        alignItems: baseline
+        alignSelf: baseline
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
