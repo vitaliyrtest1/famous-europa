@@ -53,6 +53,7 @@ sections:
         justifySelf: stretch
         alignItems: baseline
         alignSelf: baseline
+        flexDirection: col-reverse
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
