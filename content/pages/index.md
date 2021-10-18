@@ -46,7 +46,7 @@ sections:
     styles:
       self:
         height: screen
-        width: full
+        width: narrow
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
