@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "id": "hugh-saturation",
+    "id": "hugh-saturation-1",
     "firstName": "Hugh",
     "lastName": "Saturation",
     "role": "Head Fisherman & Finance",
@@ -9,5 +9,5 @@
         "type": "ImageBlock",
         "url": "/images/hugh-saturation.jpg",
         "altText": "Person photo"
-      }
+    }
 }
