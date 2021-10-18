@@ -50,6 +50,7 @@ sections:
         flexDirection: col-reverse
         justifyContent: space-around
         fontFamily: font-second
+        fontStyle: normal
     feature:
       elementId: ''
       altText: lorem-ipsum
