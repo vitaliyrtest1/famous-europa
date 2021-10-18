@@ -17,6 +17,7 @@ fields:
         margin: '*'
         padding: '*'
         objectFit: '*'
+        objectPosition: '*'
       title:
         width: '*'
         textAlign: '*'
