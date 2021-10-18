@@ -49,6 +49,7 @@ sections:
         width: narrow
         objectPosition: right-bottom
         objectFit: none
+        justifyItems: stretch
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
