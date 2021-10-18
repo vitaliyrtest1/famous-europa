@@ -24,6 +24,8 @@ fields:
         justifySelf: '*'
         alignItems: '*'
         alignSelf: '*'
+        fontFamily:
+          - name:
       title:
         width: '*'
         textAlign: '*'
