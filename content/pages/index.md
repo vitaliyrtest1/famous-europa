@@ -49,6 +49,12 @@ sections:
         alignSelf: baseline
         flexDirection: col-reverse
         justifyContent: space-around
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
