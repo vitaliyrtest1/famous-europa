@@ -47,7 +47,7 @@ sections:
       self:
         height: full
         width: narrow
-        objectPosition: right-top
+        objectPosition: right-bottom
         objectFit: none
   - type: FeaturedPostsSection
     variant: variant-b
