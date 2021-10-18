@@ -30,6 +30,8 @@ fields:
           - label: Second Font
             value: font-second
         fontSize: '*'
+        fontStyle: '*'
+        fontWeight: '*'
       title:
         width: '*'
         textAlign: '*'
