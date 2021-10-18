@@ -18,7 +18,8 @@ fields:
         padding: '*'
         objectFit: '*'
         objectPosition: '*'
-        flex: '*'
+        flexDirections: '*'
+        flexDirections: '*'
       title:
         width: '*'
         textAlign: '*'
