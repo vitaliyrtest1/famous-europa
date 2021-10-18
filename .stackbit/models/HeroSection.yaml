@@ -25,7 +25,8 @@ fields:
         alignItems: '*'
         alignSelf: '*'
         fontFamily:
-          - name:
+          - label: First
+            value: 
       title:
         width: '*'
         textAlign: '*'
