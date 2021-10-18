@@ -47,8 +47,8 @@ sections:
       self:
         height: full
         width: narrow
-        objectFit: fill
-        objectPosition: left
+        objectFit: scale-down
+        objectPosition: left-bottom
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
