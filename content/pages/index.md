@@ -37,12 +37,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-    feature:
-      elementId: ''
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      opacity: 100
-      type: ImageBlock
     styles:
       self:
         height: full
