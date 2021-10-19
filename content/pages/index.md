@@ -52,6 +52,7 @@ sections:
         fontFamily: font-second
         fontStyle: normal
         fontWeight: 800
+        textColor: text-gray-100
     feature:
       elementId: ''
       altText: lorem-ipsum
