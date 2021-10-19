@@ -57,6 +57,15 @@ fields:
         backgroundSize: '*'
         borderRadius: '*'
         borderColor: 
+        - value: 'text-gray-100'
+          label: 'Gray text'
+          color: '#f5f5f5'
+        - value: 'text-black'
+          label: 'Black text'
+          color: '#000000'
+        - value: 'text-primary'
+          label: 'Primary color'
+          color: '#ff0000'
       title:
         width: '*'
         textAlign: '*'
