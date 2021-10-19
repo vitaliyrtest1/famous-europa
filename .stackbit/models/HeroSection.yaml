@@ -35,6 +35,7 @@ fields:
       title:
         width: '*'
         textAlign: '*'
+        fontWeight: ['100:300']
   - type: enum
     name: variant
     label: Arrangement
