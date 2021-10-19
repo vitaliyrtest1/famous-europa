@@ -53,7 +53,7 @@ sections:
         fontStyle: normal
         fontWeight: 800
         textColor: text-gray-100
-        backgroundColor: text-primary
+        backgroundColor: text-black
     feature:
       elementId: ''
       altText: lorem-ipsum
