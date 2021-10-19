@@ -51,7 +51,7 @@ sections:
         justifyContent: space-around
         fontFamily: font-second
         fontStyle: normal
-        fontWeight: 800
+        fontWeight: 400
         textColor: text-gray-100
         backgroundColor: text-primary
     feature:
