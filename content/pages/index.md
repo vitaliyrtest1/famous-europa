@@ -50,7 +50,7 @@ sections:
         flexDirection: col-reverse
         justifyContent: space-around
         fontFamily: font-second
-        fontWeight: 400
+        fontWeight: 700
         textColor: text-gray-100
         backgroundColor: text-primary
     feature:
