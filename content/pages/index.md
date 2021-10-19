@@ -51,7 +51,7 @@ sections:
         justifyContent: space-around
         fontFamily: font-second
         fontStyle: normal
-        fontWeight: 400
+        fontWeight: 800
     feature:
       elementId: ''
       altText: lorem-ipsum
