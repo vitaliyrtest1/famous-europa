@@ -42,6 +42,7 @@ fields:
         - value: 'text-primary'
           label: 'Primary color'
           color: '#ff0000'
+        
       title:
         width: '*'
         textAlign: '*'
