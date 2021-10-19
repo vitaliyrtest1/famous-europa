@@ -68,7 +68,8 @@ fields:
           label: 'Primary color'
           color: '#ff0000'
         borderStyle: '*'
-        
+        boxShadow: '*'
+        opacity: '*'
       title:
         width: '*'
         textAlign: '*'
