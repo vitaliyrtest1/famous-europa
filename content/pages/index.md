@@ -55,7 +55,7 @@ sections:
         backgroundColor: text-primary
         backgroundSize: cover
       title:
-        fontWeight: 700
+        fontWeight: 300
     feature:
       elementId: ''
       altText: lorem-ipsum
