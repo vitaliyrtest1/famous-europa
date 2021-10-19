@@ -52,7 +52,7 @@ sections:
         fontFamily: font-second
         fontWeight: 400
         textColor: text-gray-100
-        backgroundColor: text-primary
+        backgroundColor: text-black
     feature:
       elementId: ''
       altText: lorem-ipsum
