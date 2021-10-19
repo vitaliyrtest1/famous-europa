@@ -53,6 +53,7 @@ fields:
         - value: 'text-primary'
           label: 'Primary color'
           color: '#ff0000'
+        backgroundPosition: '*'
         
       title:
         width: '*'
