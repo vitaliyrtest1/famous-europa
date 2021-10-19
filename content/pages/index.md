@@ -53,6 +53,7 @@ sections:
         fontWeight: 700
         textColor: text-gray-100
         backgroundColor: text-primary
+        backgroundSize: contain
     feature:
       elementId: ''
       altText: lorem-ipsum
