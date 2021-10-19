@@ -54,6 +54,7 @@ fields:
           label: 'Primary color'
           color: '#ff0000'
         backgroundPosition: '*'
+        backgroundSize: '*'
         
       title:
         width: '*'
