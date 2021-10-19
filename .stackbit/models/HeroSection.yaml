@@ -66,8 +66,9 @@ fields:
           color: '#000000'
         - value: 'text-primary'
           label: 'Primary color'
-          color: '#ff0000
+          color: '#ff0000'
         borderStyle: '*'
+        
       title:
         width: '*'
         textAlign: '*'
