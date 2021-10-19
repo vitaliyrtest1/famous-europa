@@ -56,7 +56,7 @@ fields:
         backgroundPosition: '*'
         backgroundSize: '*'
         borderRadius: '*'
-        
+        borderColor: 
       title:
         width: '*'
         textAlign: '*'
