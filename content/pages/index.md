@@ -39,7 +39,6 @@ sections:
         type: Button
     styles:
       self:
-        height: full
         objectPosition: right-top
         objectFit: none
         justifyItems: stretch
