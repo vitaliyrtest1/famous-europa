@@ -47,7 +47,7 @@ sections:
         alignSelf: baseline
         flexDirection: col-reverse
         justifyContent: space-around
-        fontFamily: font-first
+        fontFamily: font-second
         fontWeight: 700
         textColor: text-primary
         backgroundColor: text-black
