@@ -51,7 +51,7 @@ sections:
         fontWeight: 700
         textColor: text-primary
         backgroundColor: text-primary
-        backgroundSize: cover
+        backgroundSize: contain
       title:
         fontWeight: 700
     feature:
