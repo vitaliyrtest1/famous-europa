@@ -50,7 +50,7 @@ sections:
         fontFamily: font-first
         fontWeight: 700
         textColor: text-primary
-        backgroundColor: text-primary
+        backgroundColor: text-black
         backgroundSize: contain
       title:
         fontWeight: 700
