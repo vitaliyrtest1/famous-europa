@@ -40,7 +40,6 @@ sections:
     styles:
       self:
         height: full
-        width: wide
         objectPosition: right-top
         objectFit: none
         justifyItems: stretch
