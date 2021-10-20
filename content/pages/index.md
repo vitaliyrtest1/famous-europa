@@ -52,6 +52,7 @@ sections:
         textColor: text-primary
         backgroundColor: text-black
         backgroundSize: cover
+        width: full
       title:
         fontWeight: 700
     feature:
