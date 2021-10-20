@@ -49,7 +49,7 @@ sections:
         justifyContent: space-around
         fontFamily: font-first
         fontWeight: 700
-        textColor: text-gray-100
+        textColor: text-primary
         backgroundColor: text-black
         backgroundSize: cover
       title:
