@@ -62,6 +62,7 @@ sections:
       caption: lorem-ipsum
       opacity: 100
       type: ImageBlock
+      url: /images/contact.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
