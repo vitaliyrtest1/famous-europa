@@ -53,6 +53,7 @@ sections:
         backgroundColor: text-black
         backgroundSize: contain
         borderColor: text-black
+        fontStyle: normal
       title:
         fontWeight: 700
     feature:
