@@ -75,6 +75,7 @@ fields:
         textAlign: '*'
         fontWeight: [700, '100:300']
         borderRadius: ['medium', 'full', 'none']
+        borderWidth: [0, ]
   - type: enum
     name: variant
     label: Arrangement
