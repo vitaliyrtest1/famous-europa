@@ -46,7 +46,7 @@ sections:
         alignItems: stretch
         alignSelf: baseline
         flexDirection: row
-        justifyContent: flex-end
+        justifyContent: flex-start
         fontFamily: font-first
         fontWeight: 700
         textColor: text-primary
