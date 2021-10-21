@@ -55,7 +55,7 @@ sections:
         borderColor: text-black
         fontStyle: normal
         borderRadius: x-small
-        borderWidth: 30
+        borderWidth: 11
       title:
         fontWeight: 700
         borderRadius: full
