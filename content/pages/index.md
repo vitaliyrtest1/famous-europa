@@ -57,7 +57,7 @@ sections:
         borderRadius: x-small
         borderWidth: 11
         width: wide
-        height: screen
+        height: full
       title:
         fontWeight: 700
         borderRadius: full
