@@ -45,7 +45,7 @@ sections:
         justifySelf: stretch
         alignItems: baseline
         alignSelf: baseline
-        flexDirection: row
+        flexDirection: col
         justifyContent: space-around
         fontFamily: font-first
         fontWeight: 700
