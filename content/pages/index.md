@@ -43,7 +43,7 @@ sections:
         objectFit: none
         justifyItems: stretch
         justifySelf: stretch
-        alignItems: flex-start
+        alignItems: flex-end
         alignSelf: baseline
         flexDirection: row
         justifyContent: space-around
