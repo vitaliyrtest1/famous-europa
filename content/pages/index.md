@@ -61,7 +61,7 @@ sections:
       title:
         fontWeight: 700
         borderRadius: full
-        borderWidth: 6
+        borderWidth: 12
     feature:
       elementId: ''
       altText: lorem-ipsum
