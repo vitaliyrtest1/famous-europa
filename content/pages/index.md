@@ -43,10 +43,10 @@ sections:
         objectFit: none
         justifyItems: stretch
         justifySelf: stretch
-        alignItems: stretch
+        alignItems: center
         alignSelf: baseline
         flexDirection: row
-        justifyContent: flex-end
+        justifyContent: flex-start
         fontFamily: font-first
         fontWeight: 700
         textColor: text-primary
