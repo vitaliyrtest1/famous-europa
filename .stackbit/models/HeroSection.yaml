@@ -77,6 +77,8 @@ fields:
         borderRadius: ['medium', 'full', 'none']
         borderWidth: [0, 1, '5:10', 12]
         margin: ['tw1', 'tw2', 'tw4:6']
+      text:
+        padding: '*'
   - type: enum
     name: variant
     label: Arrangement
