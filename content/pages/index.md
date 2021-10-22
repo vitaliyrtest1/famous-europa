@@ -60,7 +60,7 @@ sections:
         height: screen
       title:
         fontWeight: 700
-        borderRadius: medium
+        borderRadius: full
         borderWidth: 12
     feature:
       elementId: ''
