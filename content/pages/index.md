@@ -58,6 +58,8 @@ sections:
         borderWidth: 16
         width: full
         height: screen
+        margin:
+          top: '5'
       title:
         fontWeight: 700
         borderRadius: full
