@@ -60,6 +60,8 @@ sections:
         height: screen
         margin:
           top: '5'
+        padding:
+          right: '10'
       title:
         fontWeight: 700
         borderRadius: full
