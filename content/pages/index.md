@@ -56,7 +56,7 @@ sections:
         fontStyle: normal
         borderRadius: x-small
         borderWidth: 16
-        width: full
+        width: wide
         height: screen
         margin:
           top: '5'
