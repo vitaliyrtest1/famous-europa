@@ -58,7 +58,8 @@ sections:
         borderWidth: 16
         width: wide
         height: screen
-        margin: {}
+        margin:
+          top: '5'
         padding:
           right: '10'
       title:
