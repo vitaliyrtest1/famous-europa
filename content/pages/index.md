@@ -52,7 +52,7 @@ sections:
         textColor: text-primary
         backgroundColor: text-black
         backgroundSize: contain
-        borderColor: text-black
+        borderColor: border-transparent
         fontStyle: normal
         borderRadius: x-small
         borderWidth: 16
