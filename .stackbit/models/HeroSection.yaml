@@ -79,8 +79,8 @@ fields:
         fontWeight: [700, '100:300']
         borderRadius: ['medium', 'full', 'none']
         borderWidth: [0, 1, '5:10', 12]
-        padding: ['tw0:30']
-        margin: ['tw0:30']
+        padding: ['tw0:32']
+        margin: ['tw0:32']
       text:
         padding: ['tw1', 'tw2', 'tw4:6']
   - type: enum
