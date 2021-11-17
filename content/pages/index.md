@@ -60,6 +60,9 @@ sections:
         height: screen
         margin:
           top: '5'
+          left: '5'
+          right: '5'
+          bottom: '5'
         padding:
           right: '10'
       title:
