@@ -80,7 +80,7 @@ fields:
         borderRadius: ['medium', 'full', 'none']
         borderWidth: [0, 1, '5:10', 12]
         padding: ['twt0:32']
-        margin: ['twx0:32']
+        margin: ['twl0:16', 'twr']
       text:
         padding: ['tw1', 'tw2', 'tw4:6']
   - type: enum
