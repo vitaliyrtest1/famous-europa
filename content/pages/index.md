@@ -66,8 +66,6 @@ sections:
         fontWeight: 700
         borderRadius: full
         borderWidth: 12
-        margin:
-          - mt-4
       text:
         padding:
           top: ''
