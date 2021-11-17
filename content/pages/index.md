@@ -67,7 +67,8 @@ sections:
         borderRadius: full
         borderWidth: 12
         margin:
-          - mr-2
+          - ml-3
+          - ml-3
       text:
         padding:
           top: ''
