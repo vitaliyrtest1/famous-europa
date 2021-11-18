@@ -64,7 +64,10 @@ sections:
           right: '6'
           bottom: '6'
         padding:
-          right: '10'
+          right: '5'
+          left: '5'
+          top: '5'
+          bottom: '5'
       title:
         fontWeight: 700
         borderRadius: full
