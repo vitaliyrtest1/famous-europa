@@ -70,7 +70,8 @@ sections:
         borderRadius: full
         borderWidth: 12
         margin:
-          - ml-1
+          - ml-14
+          - mr-14
       text:
         padding:
           top: ''
