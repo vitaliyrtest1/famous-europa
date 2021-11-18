@@ -48,7 +48,7 @@ sections:
         flexDirection: col-reverse
         justifyContent: space-around
         fontFamily: font-first
-        fontWeight: 700
+        fontWeight: 500
         textColor: text-primary
         backgroundColor: text-black
         backgroundSize: contain
