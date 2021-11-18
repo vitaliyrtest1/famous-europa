@@ -72,6 +72,8 @@ sections:
         margin:
           - ml-14
           - mr-14
+        padding:
+          - pt-2
       text:
         padding:
           top: ''
