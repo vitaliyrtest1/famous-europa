@@ -73,7 +73,7 @@ sections:
           - ml-14
           - mr-14
         padding:
-          - pt-2
+          - pt-0
       text:
         padding:
           top: ''
