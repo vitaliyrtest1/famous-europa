@@ -59,10 +59,10 @@ sections:
         width: full
         height: screen
         margin:
-          top: '5'
-          left: '5'
-          right: '5'
-          bottom: '5'
+          top: '6'
+          left: '6'
+          right: '6'
+          bottom: '6'
         padding:
           right: '10'
       title:
