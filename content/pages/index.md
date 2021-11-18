@@ -68,6 +68,7 @@ sections:
           left: '5'
           top: '5'
           bottom: '5'
+        textDecoration: underline
       title:
         fontWeight: 700
         borderRadius: full
