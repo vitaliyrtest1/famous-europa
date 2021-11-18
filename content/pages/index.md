@@ -71,7 +71,7 @@ sections:
         borderWidth: 12
         margin:
           - ml-14
-          - mr-20
+          - mr-16
       text:
         padding:
           top: ''
