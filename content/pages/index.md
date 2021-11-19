@@ -66,7 +66,7 @@ sections:
         padding:
           right: '5'
           left: '5'
-          top: '612'
+          top: '6'
           bottom: '5'
         textDecoration: underline
       title:
