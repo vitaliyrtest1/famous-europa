@@ -64,10 +64,10 @@ sections:
           right: '6'
           bottom: '6'
         padding:
-          right: '2'
-          left: '2'
+          right: '3'
+          left: '3'
           top: '3'
-          bottom: '2'
+          bottom: '3'
         textDecoration: underline
       title:
         fontWeight: 700
