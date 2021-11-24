@@ -14,7 +14,7 @@ fields:
         width: '*'
         height: '*'
         textAlign: '*'
-        margin: '*'
+        margin: ['x0:6', 'y10:15']
         padding: '*'
         objectFit: '*'
         objectPosition: '*'
