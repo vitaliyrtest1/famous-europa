@@ -58,16 +58,6 @@ sections:
         borderWidth: 16
         width: full
         height: screen
-        margin:
-          top: '6'
-          left: '6'
-          right: '5'
-          bottom: '6'
-        padding:
-          right: '3'
-          left: '3'
-          top: '4'
-          bottom: '3'
         textDecoration: underline
       title:
         fontWeight: 700
