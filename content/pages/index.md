@@ -59,6 +59,8 @@ sections:
         width: full
         height: screen
         textDecoration: underline
+        margin:
+          left: '3'
       title:
         fontWeight: 700
         borderRadius: full
