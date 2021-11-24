@@ -61,7 +61,7 @@ sections:
         margin:
           top: '6'
           left: '6'
-          right: '6'
+          right: '5'
           bottom: '6'
         padding:
           right: '3'
