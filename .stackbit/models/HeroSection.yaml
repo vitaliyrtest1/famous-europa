@@ -83,6 +83,9 @@ fields:
         margin: ['twl0:16', 'twr12:20']
       text:
         padding: ['tw1', 'tw2', 'tw4:6']
+  - type: number
+    name: count
+    label: Some count
   - type: enum
     name: variant
     label: Arrangement
