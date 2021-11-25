@@ -2,6 +2,7 @@ type: object
 name: HeroSection
 label: Hero section
 variantField: variant
+labelField: count
 extends:
   - Section
 groups:
