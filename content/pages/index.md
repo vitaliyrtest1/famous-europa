@@ -81,6 +81,7 @@ sections:
       opacity: 100
       type: ImageBlock
       url: /images/bg.jpg
+    count: 123
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
