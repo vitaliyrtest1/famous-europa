@@ -75,6 +75,12 @@ sections:
         padding:
           top: ''
     count: 123
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
