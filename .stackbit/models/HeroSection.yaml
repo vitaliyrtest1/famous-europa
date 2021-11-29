@@ -127,6 +127,7 @@ fields:
   - type: model
     name: feature
     label: Feature
+    readOnly: true
     models:
       - FormBlock
       - ImageBlock
